@@ -1,0 +1,45 @@
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\bin\x86\Debug\App.xbf
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\bin\x86\Debug\MainPage.xbf
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\bin\x86\Debug\Universal Windows Platform.xr.xml
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\bin\x86\Debug\Universal Windows Platform.exe
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\bin\x86\Debug\Universal Windows Platform.pdb
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\bin\x86\Debug\resources.pri
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\bin\x86\Debug\AppxManifest.xml
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\bin\x86\Debug\Core\AppxManifest.xml
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\bin\x86\Debug\Core\Universal Windows Platform.exe
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\bin\x86\Debug\Universal Windows Platform.build.appxrecipe
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\bin\x86\Debug\System.Runtime.dll
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\Universal Windows Platform.csprojAssemblyReference.cache
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\App.g.i.cs
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\App.g.cs
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\MainPage.g.i.cs
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\MainPage.g.cs
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\App.xaml
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\MainPage.xaml
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\App.xbf
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\MainPage.xbf
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\XamlSaveStateFile.xml
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\Universal Windows Platform.csproj.CoreCompileInputs.cache
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\Universal Windows Platform.csproj.CopyComplete
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\Universal Windows Platform.exe
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\Universal Windows Platform.pdb
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\ResourceHandlingTask.state
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\priconfig.xml
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\priconfig.xml.intermediate
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\unfiltered.layout.resfiles
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\filtered.layout.resfiles
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\excluded.layout.resfiles
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\resources.resfiles
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\resources.resfiles.intermediate
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\pri.resfiles
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\pri.resfiles.intermediate
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\qualifiers.txt
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\qualifiers.txt.intermediate
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\ProjectArchitectures.txt
+D:\humans\Beedell, Roke, Julian Lockhart\20210218T223421Z (C)\software\development\Shutdown Roulette\Universal Windows Platform\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424815200000000.json
